@@ -1,1 +1,2 @@
-# Initial Set Up for Building RTK-CLI
+# rtk-cli
+Initial Set up for Building CLI Tool for Kanji lookup with Heisig Components

@@ -1,0 +1,8 @@
+# .gitignore
+
+#Environmental Stuff
+venv/
+env/
+
+# OS Files
+.DS_Store

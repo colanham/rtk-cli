@@ -1,5 +1,8 @@
 # .gitignore
 
+# To - Do
+todo.txt
+
 #Environmental Stuff
 venv/
 env/

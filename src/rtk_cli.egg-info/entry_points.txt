@@ -1,0 +1,2 @@
+[console_scripts]
+rtk-cli = cli.rtk_cli:run_cli

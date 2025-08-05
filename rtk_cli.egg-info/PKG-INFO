@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: rtk-cli
+Version: 0.0.1
+Summary: A CLI Tool for identifying Heisig-method primitives and explanations for Kanji characters
+Author: Cole Lanham
+Author-email: Cole Lanham <coleklanham@gmail.com>
+Requires-Python: >=3.12.6
+Description-Content-Type: text/markdown
+Dynamic: author
+
+# rtk-cli
+Initial Set up for Building CLI Tool for Kanji lookup with Heisig Components
